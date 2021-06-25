@@ -1,6 +1,6 @@
 # VBCC Installation tutorial for Amiga m68k from https://www.youtube.com/watch?v=vFV0oEyY92I
 
-FROM debian:jessie
+FROM debian:buster
 MAINTAINER Ozzyboshi <gun101@email.it>
 
 ENV DEBIAN_FRONTEND noninteractive
